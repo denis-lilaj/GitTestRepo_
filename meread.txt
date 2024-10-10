@@ -1,2 +1,6 @@
+
 prsh ckemi hi jm
 jam albi
+
+prsh ckemi hi jm, jam un deno
+
